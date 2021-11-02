@@ -4,9 +4,9 @@
 
 ## Soon Project
 
--> ```bash Displate Downloader ```
+-> ```Displate Downloader ```
 
--> ```base Discord Bot for money optimisation```
+-> ```Discord Bot for money optimisation```
 
 See yaaa 👋✨
 
