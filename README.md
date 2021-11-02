@@ -1,5 +1,15 @@
 ### Bonk Jug' is here 👋
 ![Artillerie Rengent](https://github.com/MrHugojuggernot/MrHugojuggernot/blob/main/banni%C3%A8re%20github.png)
+
+
+## Soon Project
+
+-> ```bash Displate Downloader ```
+
+-> ```base Discord Bot for money optimisation```
+
+See yaaa 👋✨
+
 <!--
 **MrHugojuggernot/MrHugojuggernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
