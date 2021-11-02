@@ -2,11 +2,15 @@
 ![Artillerie Rengent](https://github.com/MrHugojuggernot/MrHugojuggernot/blob/main/banni%C3%A8re%20github.png)
 
 
-## Soon Project
+## Soon Project 
 
 -> ```Displate Downloader ```
 
 -> ```Discord Bot for money optimisation```
+
+## Futur Project 
+
+-> ```Discord Bot Book editor / maker w/ PDF```
 
 See yaaa 👋✨
 
