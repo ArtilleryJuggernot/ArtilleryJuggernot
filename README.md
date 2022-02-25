@@ -1,14 +1,21 @@
 ### Bonk Jug' is here 👋
-![Artillerie Rengent](https://github.com/MrHugojuggernot/MrHugojuggernot/blob/main/banni%C3%A8re%20github.png)
 
+
+## Actual Situation
+
+Currently in Semester 2 in EPITA School 
+
+I don't have much time for personnal project 
 
 ## Soon Project 
+
+-> ``` Working on Equinox Project (Unity 3D Game RPG) as Main Developper ```
+
+## Paused Project
 
 -> ```Displate Downloader ```
 
 -> ```Discord Bot for money optimisation```
-
-## Futur Project 
 
 -> ```Discord Bot Book editor / maker w/ PDF```
 
