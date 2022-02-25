@@ -11,11 +11,9 @@ I don't have much time for personnal project
 
 -> ``` Working on Equinox Project (Unity 3D Game RPG) as Main Developper ```
 
+-> ``` Website with free Manga Scans for reading```
+
 ## Paused Project
-
--> ```Displate Downloader ```
-
--> ```Discord Bot for money optimisation```
 
 -> ```Discord Bot Book editor / maker w/ PDF```
 
