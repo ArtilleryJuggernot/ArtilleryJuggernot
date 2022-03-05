@@ -1,5 +1,10 @@
 ### Bonk Jug' is here 👋
 
+## Presentation
+
+🦋 Hugo Backend developper 🦋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHugojuggernot&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Actual Situation
 
@@ -12,6 +17,8 @@ I don't have much time for personnal project
 -> ``` Working on Equinox Project (Unity 3D Game RPG) as Main Developper ```
 
 -> ``` Website with free Manga Scans for reading```
+
+-> ``` Learning how to make internal and external cheat for any game by studying game engine kernel en C++```
 
 ## Paused Project
 
