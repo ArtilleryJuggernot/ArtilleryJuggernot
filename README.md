@@ -20,7 +20,7 @@ I don't have much time for personnal project
 
 -> ``` HTML , CSS , JavaScript ```
 
--> `` Java and Angular```
+-> ``` Java and Angular ```
 
 See yaaa 👋✨
 
