@@ -16,13 +16,11 @@ I don't have much time for personnal project
 
 -> ``` Working on Equinox Project (Unity 3D Game RPG) as Main Developper ```
 
--> ``` Website with free Manga Scans for reading```
+## I'm actually learning 
 
--> ``` Learning how to make internal and external cheat for any game by studying game engine kernel en C++```
+-> ``` HTML , CSS , JavaScript ```
 
-## Paused Project
-
--> ```Discord Bot Book editor / maker w/ PDF```
+-> `` Java and Angular```
 
 See yaaa 👋✨
 
