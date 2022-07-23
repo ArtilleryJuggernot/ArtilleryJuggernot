@@ -19,7 +19,7 @@ My stuff and tools :
   
 </p>
 
-My linux distributions :
+My main linux distributions :
 
 
 <p>
@@ -30,19 +30,19 @@ My linux distributions :
 </p>
 
 
+
+(and much more 👀)
+
  
 
 
 
-  
-
-
-
+ 
 ## Actual Situation
 
-Currently in Semester 2 in EPITA School 
+Just finish 1st year at EPITA School
 
-I don't have much time for personnal project 
+Next step -> 42 August Pool 
 
 ## Soon Project 
 
@@ -66,17 +66,4 @@ I don't have much time for personnal project
 
 See yaaa 👋✨
 
-<!--
-**MrHugojuggernot/MrHugojuggernot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
