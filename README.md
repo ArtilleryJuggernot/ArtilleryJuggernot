@@ -34,9 +34,6 @@ My main linux distributions :
 (and much more 👀)
 
  
-
-
-
  
 ## Actual Situation
 
@@ -46,7 +43,9 @@ Next step -> 42 August Pool
 
 ## Soon Project 
 
--> ``` Working on Equinox Project (Unity 3D Game RPG) as Main Developper ```
+-> Multiple website (cooking recipe , portofolio) 
+
+-> 42 Pool 👀
 
 ## I'm actually learning 
 <p>
