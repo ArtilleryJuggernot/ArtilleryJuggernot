@@ -28,24 +28,17 @@ My main linux distributions :
 <img alt="Nix" src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
 <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
-
-
-
-(and much more 👀)
-
  
  
 ## Actual Situation
 
-Just finish 1st year at EPITA School
+1st year at EPITA School (✅)
 
-Next step -> 42 August Pool 
+42 school August C Pool 2k22 (✅)
 
 ## Soon Project 
 
 -> Multiple website (cooking recipe , portofolio) 
-
--> 42 Pool 👀
 
 ## I'm actually learning 
 <p>
