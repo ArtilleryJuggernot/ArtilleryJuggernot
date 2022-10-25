@@ -36,6 +36,8 @@ My main linux distributions :
 
 42 school August C Pool 2k22 (✅)
 
+ 1st year of SIO Cursus at Chartreux (Current)
+
 ## Soon Project 
 
 -> Multiple website (cooking recipe , portofolio) 
