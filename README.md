@@ -2,7 +2,7 @@
 
 ## Presentation
 
-<div allign=center>🦋 Hugo Backend developper 🦋</div>
+<div allign=center>🦋 Hugo Fullstack developper 🦋</div>
 
 <div align="center">
   <img  src="./grid-snake.svg"
