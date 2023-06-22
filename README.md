@@ -40,15 +40,17 @@ My main linux distributions :
  
 ## Actual Situation
 
-1st year at EPITA School (✅)
+> 1st year at EPITA School (✅)
 
-42 school August C Pool 2k22 (✅)
+> 42 school August C Pool 2k22 (✅)
 
- 1st year of SIO Cursus at Chartreux (Current) (▶️)
+> 1st year SIO Cursus at Institution des Chartreux (✅)
+
+> 2nd year SIO Cursus at Institution des Chartreux (▶️)
 
 ## Soon Project 
 
-
+- RES-APPLI major features update
 
 ## I'm actually learning 
 <p>
