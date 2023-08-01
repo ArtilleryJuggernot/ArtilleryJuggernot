@@ -67,8 +67,8 @@ My main linux distributions :
 </p>
 
 <div align="center" style="display: flex; justify-content: space-around;">
-  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MrHugojuggernot&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
-  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=MrHugojuggernot&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="41.7%" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtilleryJuggernot&layout=compact&langs_count=8&bg_color=0d1117&text_color=E5E7EB'/>
+  <img width="57.7%" src='https://github-readme-stats.vercel.app/api?username=ArtilleryJuggernot&count_private=true&bg_color=0d1117&text_color=E5E7EB'/>
 </div>
 
 See yaaa 👋✨
