@@ -271,6 +271,4 @@ Security is not a checkbox for me — it's a discipline I practise on both sides
 
 *Building AI agents, SaaS and secure systems — open to opportunities in Singapore, Dubai / UAE, the US and Asia.* 🌍
 
-**See ya 👋✨**
-
 </div>
